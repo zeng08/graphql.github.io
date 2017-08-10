@@ -1,7 +1,7 @@
 ---
-title: Constructing Types
+title: 构建类型
 layout: ../_core/GraphQLJSLayout
-category: Advanced Guides
+category: 高级指南
 permalink: /graphql-js/constructing-types/
 next: /graphql-js/express-graphql/
 ---
